@@ -1,0 +1,195 @@
+<style class="fox_global_style">.header { background: rgb(11, 79, 138); color: white; padding: 25px; text-align: center; }.logo { font-size: 28px; font-weight: bold; }.container { width: 90%; max-width: 900px; margin: 30px auto; background: white; padding: 30px; border-radius: 12px; box-shadow: rgb(204, 204, 204) 0px 5px 20px; }.title { border-bottom: 2px solid rgb(11, 79, 138); padding-bottom: 15px; font-size: 24px; }.status { background: rgb(232, 247, 237); color: rgb(24, 128, 56); padding: 15px; border-radius: 8px; font-weight: bold; margin: 20px 0px; }table { width: 100%; border-collapse: collapse; }td { padding: 12px; border-bottom: 1px solid rgb(221, 221, 221); }.label { width: 35%; font-weight: bold; }.total { margin-top: 25px; background: rgb(238, 245, 255); padding: 20px; font-size: 22px; text-align: right; font-weight: bold; }.footer { text-align: center; padding: 20px; color: rgb(119, 119, 119); font-size: 13px; }</style>
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>e-Faktur Invoice Verification</title>
+
+<style>.header { background: rgb(11, 79, 138); color: white; padding: 25px; text-align: center; }.logo { font-size: 28px; font-weight: bold; }.container { width: 90%; max-width: 900px; margin: 30px auto; background: white; padding: 30px; border-radius: 12px; box-shadow: rgb(204, 204, 204) 0px 5px 20px; }.title { border-bottom: 2px solid rgb(11, 79, 138); padding-bottom: 15px; font-size: 24px; }.status { background: rgb(232, 247, 237); color: rgb(24, 128, 56); padding: 15px; border-radius: 8px; font-weight: bold; margin: 20px 0px; }table { width: 100%; border-collapse: collapse; }td { padding: 12px; border-bottom: 1px solid rgb(221, 221, 221); }.label { width: 35%; font-weight: bold; }.total { margin-top: 25px; background: rgb(238, 245, 255); padding: 20px; font-size: 22px; text-align: right; font-weight: bold; }.footer { text-align: center; padding: 20px; color: rgb(119, 119, 119); font-size: 13px; }</style>
+
+
+
+
+
+
+
+<div class="header">
+
+<div class="logo">
+Kementerian Keuangan Republik Indonesia
+</div>
+
+<div>
+e-Faktur Verification Portal
+</div>
+
+</div>
+
+
+<div class="container">
+
+
+<div class="title">
+FAKTUR PAJAK / Tax Invoice
+</div>
+
+
+<div class="status">
+✓ Invoice Validated Successfully
+</div>
+
+
+
+<table>
+
+<tbody><tr>
+<td class="label">
+Nomor Faktur
+</td>
+
+<td>
+010.000-26.12345678
+</td>
+</tr>
+
+
+<tr>
+<td class="label">
+Tanggal Faktur
+</td>
+
+<td>
+30 September 2026
+</td>
+</tr>
+
+
+
+<tr>
+<td class="label">
+Nama Penjual
+</td>
+
+<td>
+PT Nusantara Digital Indonesia
+</td>
+</tr>
+
+
+<tr>
+<td class="label">
+NPWP Penjual
+</td>
+
+<td>
+01.234.567.8-901.000
+</td>
+</tr>
+
+
+
+<tr>
+<td class="label">
+Nama Pembeli
+</td>
+
+<td>
+PT Global Trading Asia
+</td>
+</tr>
+
+
+<tr>
+<td class="label">
+NPWP Pembeli
+</td>
+
+<td>
+09.876.543.2-111.000
+</td>
+</tr>
+
+
+
+<tr>
+<td class="label">
+Jenis Transaksi
+</td>
+
+<td>
+Penyerahan Barang Kena Pajak
+</td>
+</tr>
+
+
+</tbody></table>
+
+
+
+<div class="total">
+
+Total Faktur : Rp 11.100.000
+
+</div>
+
+
+
+<h3>Detail Barang / Jasa</h3>
+
+<table>
+
+<tbody><tr>
+<td class="label">
+Produk
+</td>
+
+<td>
+Electronic Equipment
+</td>
+</tr>
+
+
+<tr>
+<td class="label">
+DPP
+</td>
+
+<td>
+Rp 10.000.000
+</td>
+</tr>
+
+
+<tr>
+<td class="label">
+PPN 11%
+</td>
+
+<td>
+Rp 1.100.000
+</td>
+</tr>
+
+
+</tbody></table>
+
+
+
+</div>
+
+
+
+<div class="footer">
+
+Electronic Tax Invoice System<br>
+
+© 2026 Company e-Faktur Service
+
+</div>
+
+
+
+
+
+</a>
